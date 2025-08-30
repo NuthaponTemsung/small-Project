@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+.Navbar{
+  display: flex;
+  margin: 1.5rem 3.5rem;
+  justify-content: space-between;
+  alig-items:center;
+}
+
+.Navbar_link{
+margin:1.5rem 0px;
+flodt: left;
+}
+
+.Navbar_link a{
+  text-decoration:none;
+  padding:1.5rem;
+}
+.Navbar_link a:hover{
+  color:#FF009A;
+}
